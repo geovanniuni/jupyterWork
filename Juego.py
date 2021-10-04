@@ -29,7 +29,7 @@ ejecutando=True
 
 
 i=0
-x=321
+x=325
 temp=1
 while ejecutando:
     
