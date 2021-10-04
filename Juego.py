@@ -40,7 +40,7 @@ while ejecutando:
             if event.key == pygame.K_ESCAPE:
                 ejecutando=False
                 
-                
+#Ella no te quiere                
                 
     
     keys=pygame.key.get_pressed()
